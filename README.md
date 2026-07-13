@@ -172,6 +172,6 @@ This project demonstrates the working of three string matching algorithms and co
 
 Name: ELAMATHI.S
 
-Department: Computer Science and Engineering
+Department: AI&DS
 
 Course: Design and Analysis of Algorithms Laboratory
