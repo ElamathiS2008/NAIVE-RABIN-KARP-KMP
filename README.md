@@ -170,7 +170,7 @@ This project demonstrates the working of three string matching algorithms and co
 
 ## Author
 
-Name: ____________________
+Name: ELAMATHI.S
 
 Department: Computer Science and Engineering
 
